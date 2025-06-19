@@ -1,5 +1,6 @@
-# goat_sheep_distinction
-This project aims to distinguish and identify goat or sheep from an image.
+# CapriVision
+This project aims to identify among goat or sheep from an image.
+Both Sheep as well Goat belong to the Caprinae family.
 
 The dataset used is "sheep-goat.zip" from kaggle.
 
